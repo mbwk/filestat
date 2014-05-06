@@ -1,0 +1,4 @@
+filestat
+*.txt
+a.out
+.ycm*
